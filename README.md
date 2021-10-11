@@ -2,3 +2,4 @@
 Computer Laboratory 2564 - Lab 01
 
 My name is sorawit thongneam
+Edited by Github Text Editor.
