@@ -1,2 +1,7 @@
-# CL64-01
-Computer Laboratory 2564-01
+echo "# CL64-01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sorawitz/CL64-01.git
+git push -u origin main
